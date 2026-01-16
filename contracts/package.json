@@ -33,7 +33,7 @@
   "dependencies": {
     "@openzeppelin/contracts": "4.5.0",
     "@openzeppelin/contracts-upgradeable": "4.5.2",
-    "hardhat": "^2.22.16"
+    "hardhat": "^3.0.0"
   },
   "private": false,
   "devDependencies": {
